@@ -1,7 +1,6 @@
 {
    "version": 2,
    "name": "books",
-   "engines": { "node": "18.x" },
    
    "builds": [
       { "src": "./index.js",
