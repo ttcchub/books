@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-final-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "19.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasondansie/nodejs-final-project.git",
+    "dev": "node index"
+  },
+  "keywords": [],
+  "author": "Niki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasondansie/nodejs-final-project/issues"
+  },
+  "homepage": "https://github.com/jasondansie/nodejs-final-project#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "vercel": "^28.15.2"
+  }
+}
